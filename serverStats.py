@@ -42,4 +42,4 @@ def log_server_stats():
 if __name__ == "__main__":
     while True:
         log_server_stats()
-        time.sleep(10)  # Refresh every 10 seconds aaa
+        time.sleep(10)  # Refresh every 10 seconds
